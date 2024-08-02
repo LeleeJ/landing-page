@@ -1,1 +1,13 @@
-.header {background-color: aqua;}
+.header {background-color: #1f2937;
+        display: flex;
+         justify-content: space-evenly;
+        flex-shrink: 2;
+        font-size: 18px;
+        color:#e5e7eb}
+
+
+p {display: block; text-align: center;
+    padding: 50px; background-color: #e5e7eb; color:#1f2937; font-size: 36px; font-style: italic;}
+/* {outline: 2px solid red;}*/
+
+#author {font-weight: bold; font-size: 25px; padding: 0;}
